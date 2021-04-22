@@ -1,0 +1,83 @@
+body{
+  background-color: rgb(74, 74, 74);
+} 
+.name{
+  font-size: 1.7em;
+  color: white;
+  font-weight: bold;
+  font-family: Helvetica;
+
+}
+.corona-body{
+  height: 70vh;
+  width: 70vw;
+  background-color: rgb(74, 74, 74) ;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.confirm{
+  background-color: rgb(216, 0, 0) ;
+  border: solid 1 px #34495e ;
+  }
+
+.c-title{
+  font-size: 1.5em;
+  font-weight: bold; 
+  color: black;
+  font-family: Helvetica;
+}
+
+.c-body{
+  font-weight: bold;
+}
+
+.recovered{
+  background-color: rgb(32, 193, 32);
+  border: 1 px solid #34495e;
+}
+
+.box{
+  border-radius: 30px;
+  box-shadow: 10px 10px 8px #04332f;
+}
+
+.card-decks{
+  margin-top: 4em;
+}
+  
+.deaths{
+  background-color: red;
+  border: 1 px solid #34495e;
+}
+
+.number{
+  font-size: 3em;
+}
+
+.judul{
+  color : red;
+  font-size: 50px;
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+.name{
+  font-family: Helvetica;
+  font-size: 30px;
+  color: white;
+}
+
+button {
+  padding: 10px 20px;
+  color: black;
+  border-radius: 5px;
+  border: none;
+  font-weight: bold;
+  font-family: Helvetica;
+}
+
+button[type="kembali"] {
+  background-color: white;
+  margin-bottom: 30px;
+}
