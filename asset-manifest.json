@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Tugas-React/static/css/main.c7e99671.chunk.css",
+    "main.js": "/Tugas-React/static/js/main.67d5a61d.chunk.js",
+    "main.js.map": "/Tugas-React/static/js/main.67d5a61d.chunk.js.map",
+    "runtime-main.js": "/Tugas-React/static/js/runtime-main.737487e1.js",
+    "runtime-main.js.map": "/Tugas-React/static/js/runtime-main.737487e1.js.map",
+    "static/css/2.150d169a.chunk.css": "/Tugas-React/static/css/2.150d169a.chunk.css",
+    "static/js/2.70fdfcb4.chunk.js": "/Tugas-React/static/js/2.70fdfcb4.chunk.js",
+    "static/js/2.70fdfcb4.chunk.js.map": "/Tugas-React/static/js/2.70fdfcb4.chunk.js.map",
+    "index.html": "/Tugas-React/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Tugas-React/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.c7e99671.chunk.css.map": "/Tugas-React/static/css/main.c7e99671.chunk.css.map",
+    "static/js/2.70fdfcb4.chunk.js.LICENSE.txt": "/Tugas-React/static/js/2.70fdfcb4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Tugas-React/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.737487e1.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.70fdfcb4.chunk.js",
+    "static/css/main.c7e99671.chunk.css",
+    "static/js/main.67d5a61d.chunk.js"
+  ]
+}
